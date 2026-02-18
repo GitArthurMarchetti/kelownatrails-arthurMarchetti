@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "statingkelowna-f787b",
+    "staging": "statingkelowna-f787b",
+    "testing":  "testingkelowna-52d06"
+  },
+  "targets": {},
+  "etags": {}
+}
